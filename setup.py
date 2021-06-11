@@ -11,7 +11,7 @@ setup(
     url="https://github.com/lgsvl/simulator",
     packages=["lgsvl", "lgsvl.dreamview", "lgsvl.evaluator"],
     install_requires=[
-        "websockets==7.0",
+        "websockets==9.1",
         "websocket-client==0.57.0",
         "numpy",
         "environs"
